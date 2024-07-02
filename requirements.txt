@@ -1,0 +1,9 @@
+pdfminer.six
+pdf2image
+streamlit
+pillow_heif
+unstructured_inference
+pytesseract
+unstructured_pytesseract
+ollama
+faiss-gpu
